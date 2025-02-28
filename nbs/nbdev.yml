@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cellRAG"
+  site-url: "https://LA3D.github.io/cellRAG"
+  description: "A spatial memory system for robots using S2, LLMs, and knowledge graphs"
+  repo-branch: main
+  repo-url: "https://github.com/LA3D/cellRAG"
